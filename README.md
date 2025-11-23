@@ -51,19 +51,19 @@ module Gate_1 (
 
 endmodule
 ```
-
 Developed by: V Karthi 
 RegisterNumber: 25017522
 Logic symbol & Truthtable
 <img width="504" height="676" alt="image" src="https://github.com/user-attachments/assets/34e0d2be-e9b3-4a62-a62b-08f9a66b3979" />
 
 RTL realization Output:
-  
-[Exp1 RTL.pdf](https://github.com/user-attachments/files/23696948/Exp1.RTL.pdf)
+<img width="727" height="851" alt="image" src="https://github.com/user-attachments/assets/ac2bad7a-b960-4878-bd0c-81c0fa14b935" />
+
 
 
 RTL:
-[EXPERIMENT 1.pdf](https://github.com/user-attachments/files/23696951/EXPERIMENT.1.pdf)
+<img width="1101" height="843" alt="image" src="https://github.com/user-attachments/assets/b4d6124a-45aa-43b4-9930-981f7fb1a452" />
+
 
 Result: Thus, the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
 

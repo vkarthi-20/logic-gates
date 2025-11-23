@@ -1,0 +1,17 @@
+|EXP1
+a => and_out.IN0
+a => or_out.IN0
+a => xor_out.IN0
+a => not_out.DATAIN
+b => and_out.IN1
+b => or_out.IN1
+b => xor_out.IN1
+and_out <= and_out.DB_MAX_OUTPUT_PORT_TYPE
+or_out <= or_out.DB_MAX_OUTPUT_PORT_TYPE
+not_out <= a.DB_MAX_OUTPUT_PORT_TYPE
+nand_out <= and_out.DB_MAX_OUTPUT_PORT_TYPE
+nor_out <= or_out.DB_MAX_OUTPUT_PORT_TYPE
+xor_out <= xor_out.DB_MAX_OUTPUT_PORT_TYPE
+xnor_out <= xor_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
